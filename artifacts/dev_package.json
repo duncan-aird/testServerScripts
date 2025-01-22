@@ -1,0 +1,63 @@
+{
+	"id": "61a827ab-5ad8-ef11-88f8-000d3adf666b",
+	"createdAt": "2025-01-22T00:49:01.203Z",
+	"createdBy": "daird@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/duncan-aird/testServerScripts"
+	},
+	"name": "testScripts",
+	"description": null,
+	"ver": "25.01.22.0115",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "c62e798f-6e5e-ef11-991a-000d3a66ad5d",
+			"name": "getBarcode",
+			"description": null
+		},
+		{
+			"id": "3f59a96e-6f5e-ef11-991a-000d3a66ad5d",
+			"name": "createPDF",
+			"description": null
+		},
+		{
+			"id": "0d667921-f85b-ef11-991a-000d3a66ad5d",
+			"name": "createBarcode",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "b95e670d-f85b-ef11-991a-000d3a66ad5d",
+			"name": "createBarcodes",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

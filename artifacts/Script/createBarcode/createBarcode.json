@@ -1,0 +1,32 @@
+{
+	"id": "0d667921-f85b-ef11-991a-000d3a66ad5d",
+	"createdAt": "2024-08-16T17:51:15.350Z",
+	"createdBy": "daird@neptune-software.com",
+	"globalScripts": [
+		{
+			"id": "3F59A96E-6F5E-EF11-991A-000D3A66AD5D",
+			"name": "createBarcodes - createPDF",
+			"contextname": "createPDF"
+		},
+		{
+			"id": "C62E798F-6E5E-EF11-991A-000D3A66AD5D",
+			"name": "createBarcodes - getBarcode",
+			"contextname": "getBarcode"
+		}
+	],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "createBarcode",
+	"ver": "24.09.06.1211",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "b95e670d-f85b-ef11-991a-000d3a66ad5d",
+	"package": "61a827ab-5ad8-ef11-88f8-000d3adf666b"
+}

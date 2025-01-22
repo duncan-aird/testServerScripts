@@ -1,0 +1,21 @@
+{
+	"id": "3f59a96e-6f5e-ef11-991a-000d3a66ad5d",
+	"createdAt": "2024-08-19T21:10:17.293Z",
+	"createdBy": "daird@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "createPDF",
+	"ver": "24.09.06.1154",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": true,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "b95e670d-f85b-ef11-991a-000d3a66ad5d",
+	"package": "61a827ab-5ad8-ef11-88f8-000d3adf666b"
+}
